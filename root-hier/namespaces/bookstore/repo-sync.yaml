@@ -7,8 +7,6 @@ metadata:
 spec:
   git:
    repo: git@github.com:akulkapoor90/csmr-sample.git
-   revision: HEAD
-   branch: ff
    dir: "bookstore"
    auth: ssh
    secretRef:
